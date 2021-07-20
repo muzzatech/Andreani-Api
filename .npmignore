@@ -1,0 +1,9 @@
+node_modules/
+test/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.prettierrc
+tsconfig.json
+src/
